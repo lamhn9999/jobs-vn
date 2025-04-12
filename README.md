@@ -1,16 +1,16 @@
-<h4>Steps to extract, transform, and load data</h4>
+<h3>Instruction for manual demo</h3>
 <p>
-  Create a database called job_desc_db in Mysql
+  1. Create a database called <i>job_desc_db</i> in Mysql
 </p>
 <p>
-  Create tables (the source code is provided in dbschemasource)
+  2. Create tables (the source code is provided in <i>dbschemasource</i>)
 </p>
 <p>
-  Execute keyword_processing.py
+  3. Execute _keyword_processing.py_
 </p>
 <p>
-  Execute data_transformation.py
+  4. Execute _data_transformation.py_
 </p>
 <p>
-  Execute data_loading.py
+  5. Execute _data_loading.py_
 </p>
