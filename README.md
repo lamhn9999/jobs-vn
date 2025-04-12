@@ -1,3 +1,11 @@
+<style>
+  i {
+    color: blue;
+  }
+  h3 {
+    color: yellow;
+  }
+</style>
 <h3>Instruction for manual demo</h3>
 <p>
   1. Create a database called <i>job_desc_db</i> in Mysql
@@ -9,8 +17,8 @@
   3. Execute <i>keyword_processing.py</i>
 </p>
 <p>
-  4. Execute <i>kdata_transformation.py</i>
+  4. Execute <i>data_transformation.py</i>
 </p>
 <p>
-  5. Execute <i>kdata_loading.py</i>
+  5. Execute <i>data_loading.py</i>
 </p>
