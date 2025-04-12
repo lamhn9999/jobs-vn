@@ -3,7 +3,7 @@
   1. Create a database called <i>job_desc_db</i> in Mysql
 </p>
 <p>
-  2. Create tables (the source code is provided in <code style="color : Aqua">dbschemasource</code>
+  2. Create tables (the source code is provided in <code style="color : Blue">dbschemasource</code>)
 </p>
 <p>
   3. Execute <i>keyword_processing.py</i>
