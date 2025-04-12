@@ -9,8 +9,8 @@
   3. Execute <code>keyword_processing.py</code>
 </p>
 <p>
-  4. Execute <code>data_transformation.py</code>
+  4. Execute <code>data_transformation.py</code> (modify mysql connection inside the source code beforehand)
 </p>
 <p>
-  5. Execute <code>data_loading.py</code>
+  5. Execute <code>data_loading.py</code> (modify mysql connection inside the source code beforehand)
 </p>
