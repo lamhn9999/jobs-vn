@@ -21,7 +21,7 @@ CREATE TABLE job (
 );
 
 CREATE TABLE job_desc (
-	job_desc_id INT PRIMARY KEY AUTO_INCREMENT,
+    job_desc_id INT PRIMARY KEY AUTO_INCREMENT,
     company_id INT,
     -- location_id INT,
     description TEXT,
